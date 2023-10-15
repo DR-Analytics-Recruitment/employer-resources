@@ -19,10 +19,10 @@ Best case, it attracts top-tier applicants reducing hiring time, recruitment exp
 
 ---
 
-## Job Title
+## Job Title 💼
 
 **Purpose**: 
-Sets the tone and level of the position. Important for Search Engine Optimisation. 
+Sets the tone and level of the position. Important for search optimisation. 
 You want the right people to find your job. 
 That means re-inventing the wheel with a never heard before title is not ideal.
 
@@ -31,7 +31,7 @@ That means re-inventing the wheel with a never heard before title is not ideal.
 - Titles like "Data Scientist" "Senior Business Intelligence Analyst" or "Machine Learning Engineer" give immediate clarity.
 
 
-## Company Description
+## Company Description 🏢
 
 **Purpose**: 
 To provide context and establish the company's mission, culture and successes. Share where you are, where you're going and who you are looking to build with.
@@ -46,7 +46,7 @@ We are changing the one consumers interact with financial institutions. Our solu
 
 ---
 
-## Role Description
+## Role Description 🗞️
 
 **Purpose**: 
 To describe what the role entails, its scope, and its significance within the organisation. This should be distilled from internal discussions and position brief. Clear and well defined descriptions provide high levels of transparency and increase retention.
@@ -62,7 +62,7 @@ As a Data Scientist at [Your Company Name], you will be pioneering our machine l
 
 ---
 
-## Responsibilities
+## Responsibilities 📃
 
 **Purpose**: 
 To outline the core tasks the candidate will be accountable for. Internally, this should be discussed during the job scoping process. Subsequent interviews should have questions that reference all of these points
@@ -80,7 +80,7 @@ To outline the core tasks the candidate will be accountable for. Internally, thi
 
 ---
 
-## Skills & Experience
+## Skills & Experience 📚
 
 **Purpose**: 
 To list the technical and soft skills necessary for the role.
@@ -98,7 +98,7 @@ To list the technical and soft skills necessary for the role.
 
 ---
 
-## Benefits
+## Benefits 💰
 
 **Purpose**: 
 To show what the company offers in terms of salary, work-life balance, and career development.
@@ -115,7 +115,7 @@ To show what the company offers in terms of salary, work-life balance, and caree
 
 ---
 
-## Application Process
+## Application Process ⚙️
 
 **Purpose**: 
 To guide the candidate through the next steps for application.

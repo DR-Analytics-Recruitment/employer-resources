@@ -2,9 +2,9 @@
 
 The job ad is your first interaction with potential employee. It's vital to get it right. 
 
-In the worst-case scenario, a poorly written job ad can attract the wrong type of applicants, costing you time and resources.
+❌ In the worst-case scenario, a poorly written job ad can attract the wrong type of applicants, costing you time and resources.
 
-Best case, it attracts top-tier applicants reducing hiring time, recruitment expenses and improving staff quality.
+✅ Best case, it attracts top-tier applicants reducing hiring time, recruitment expenses and improving staff quality.
 
 
 ## Table of Contents

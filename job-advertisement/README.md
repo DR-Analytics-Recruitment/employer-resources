@@ -30,6 +30,7 @@ That means re-inventing the wheel with a never heard before title is not ideal.
 - Be specific and avoid jargon. 
 - Titles like "Data Scientist" "Senior Business Intelligence Analyst" or "Machine Learning Engineer" give immediate clarity.
 
+---
 
 ## Company Description 🏢
 
@@ -93,7 +94,7 @@ To list the technical and soft skills necessary for the role.
 #### Example:
 \# Required Skills & Experience
 - Hands-on experience with deploying machine learning models with Python using libraries such as TensorFlow, PyTorch, or scikit-learn based on user decisions.
-- Experience with containerization technologies like Docker for model deployment.
+- Experience with containerisation technologies like Docker for model deployment.
 - Ability to work with cloud platforms like AWS, Azure, or GCP for deploying scalable machine learning solutions.
 
 ---
